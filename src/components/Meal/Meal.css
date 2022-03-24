@@ -1,0 +1,32 @@
+.meal-card{
+    border: 1px solid darksalmon;
+    border-radius: 10px;
+    position: relative;
+}
+.meal-card img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+.meal-card small{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.meal-name{
+    font-size: 20px;
+}
+.meal-card p{
+    line-height: 15px;
+    padding-left: 5px;
+}
+.meal-card button{
+    width: 100%;
+    border: none;
+    background-color: lightcoral;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 0px 0px 10px 10px;
+    cursor: pointer;
+}
